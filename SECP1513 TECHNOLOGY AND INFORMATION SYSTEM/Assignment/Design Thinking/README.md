@@ -1,3 +1,5 @@
+<h2>Reflection on Design Thinking 💬</h2>
+
 This project marks a significant milestone in my degree program. Our initial task was to interview an individual, identify their problem, propose several solutions, and select the optimal approach for finalization. The subsequent steps involved designing a prototype, testing it, and requesting feedback for further refinement. 
 Throughout the process, I realized the significance of collaboration among group members. A cohesive team can complete a project professionally and promptly. I learned the value of working with others to achieve our objectives. Additionally, it's essential to begin work early to avoid rushing and incomplete deliverables.
 
