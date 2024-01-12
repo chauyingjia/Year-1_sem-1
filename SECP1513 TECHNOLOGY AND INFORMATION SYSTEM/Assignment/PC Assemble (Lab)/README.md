@@ -4,5 +4,5 @@ In my opinion, hands-on work is the best way for us to understand or to master a
 works or projects in the future so that we could really learn from it and gain more experience from those practises. <br/> <br/> <br/>
 
 
-<img align = "left" src="https://github.com/chauyingjia/Year-1_sem-1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment/PC%20Assemble%20(Lab)/pc1.jpg" width="400" />
-<img align = "right" src="https://github.com/chauyingjia/Year-1_sem-1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment/PC%20Assemble%20(Lab)/pc2.jpg" width="400" />
+<img align = "left" src="https://github.com/chauyingjia/Year-1_sem-1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment/PC%20Assemble%20(Lab)/pc1.jpg" width="450" />
+<img align = "right" src="https://github.com/chauyingjia/Year-1_sem-1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Assignment/PC%20Assemble%20(Lab)/pc2.jpg" width="450" />
