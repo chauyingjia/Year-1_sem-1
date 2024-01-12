@@ -6,7 +6,7 @@ Throughout this course, I was intorduced to the digital electronics and the conc
 I learnt the digital fundamentals which coverage from the basic concepts to programmable logic devices. 
 There are few laboratory experiments too to provide hands-on experience on us.
 
-The topics included are:<br/>
+The topics included are 📘:<br/>
 -Digital Logic Overview<br/>
 -Number Systems and codes<br/>
 -Logic Gates<br/>
