@@ -1,4 +1,6 @@
-
+<h2><p align = "center" >ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE 📉 <br/>
+Lecturer - Dr. Nurul Adilah Manshor 💁<p/></h2>
+<h2>Relection 💬</h2>
 
 This is a course on the topics as you can see is about the integrity and the anti-corruption.
 We started to learn about this topic since primary school. As you know, to avoid or to lessen the cases
