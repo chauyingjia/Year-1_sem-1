@@ -6,12 +6,12 @@ Throughout this course, I was intorduced to the digital electronics and the conc
 I learnt the digital fundamentals which coverage from the basic concepts to programmable logic devices. 
 There are few laboratory experiments too to provide hands-on experience on us.
 
-The topics included are:
--Digital Logic Overview
--Number Systems and codes
--Logic Gates
--Boolean Algebra and Logic Simplification
--Combinational Logic Circuit
--Functions of Combinational Logic
--Latches, Flip-flops and Timers
--Counters
+The topics included are:<br/>
+-Digital Logic Overview<br/>
+-Number Systems and codes<br/>
+-Logic Gates<br/>
+-Boolean Algebra and Logic Simplification<br/>
+-Combinational Logic Circuit<br/>
+-Functions of Combinational Logic<br/>
+-Latches, Flip-flops and Timers<br/>
+-Counters<br/>
