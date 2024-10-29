@@ -1,4 +1,4 @@
-# Year-1_sem-1
+# Year1_sem1
 
 I've meticulously documented my progress throughout this semester. It includes all the courses I took and what I've done. I learned much things that I have not been taught before. 
 Before I start my degree, I was worried about do I really choose the correct path? Do I really get to master my subjects well?. My confidence in mastering these subjects was quite low. Despite this, I've dedicated 
